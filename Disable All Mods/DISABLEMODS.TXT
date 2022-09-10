@@ -1,0 +1,30 @@
+*If this file exists, no mod banks will be loaded.*
+
+If you are modding the game, please don't modify any of the bank files in the folder this file lives in (PCBANKS). These are the banks No Man's Sky ships with, and modifying them makes it impossible for the game to detect if you have a corrupted installation.
+
+Any mod banks should go into a subfolder of PCBANKS, called MODS. All banks in MODS will be mounted when the game starts up.
+
+Banks in the MODS folder are loaded additively, over the top of the banks shipped in No Man's Sky, and given priority over the shipping files. This allows a mod bank to replace any files in the shipping game, or add new ones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
